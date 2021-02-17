@@ -7,5 +7,5 @@
 
 [Урок 13](https://igorgorin.github.io/lesson_13 "Домашка")-страница регистарции
 
-Урок 14(https://igorgorin.github.io/lesson14 "Домашка")-подключение шрифтов
+[Урок 14](https://igorgorin.github.io/lesson14 "Домашка")-подключение шрифтов
 
