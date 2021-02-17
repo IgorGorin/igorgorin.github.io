@@ -1,0 +1,29 @@
+.r1 {
+font-family: 'Open Sans', sans-serif;
+}
+.r2 {
+font-family: 'Bebas';
+}
+.r3 {
+font-family: 'Lato';
+}
+.r4 {
+font-family: 'Lobster';
+}
+
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
